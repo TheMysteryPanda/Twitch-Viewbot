@@ -20,7 +20,7 @@ To get started with Twitch Viewbot, simply visit [www.fame.cheap](https://www.fa
 
 ## Preview:
 
-Here is a short preview of our dashboard: https://gyazo.com/a666d4836fbe7a581ac1f6237a4f0c7c
+Here is a short preview of our dashboard: [https://gyazo.com/a666d4836fbe7a581ac1f6237a4f0c7c](https://gyazo.com/b6ca1bc6a377b6b1a71ffd67a0cae5ed)
 
 ## Support
 
